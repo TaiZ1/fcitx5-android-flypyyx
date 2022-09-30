@@ -14,6 +14,7 @@
  flypyyx.conf 添加至 /Android/data/org.fcitx.fcitx5.android/files/data/inputmethod/
 
 #自定义码表方法
+ 
  下载并编辑 小鹤音形for手机“搜狗”、“百度”自定义方案.txt
  
  来源 http://flypy.ysepan.com/
